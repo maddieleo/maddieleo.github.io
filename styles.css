@@ -1,0 +1,100 @@
+
+body {
+	text-align: center;
+	background-color: #FFFFFF;
+	font-family: 'Poiret One', cursive;
+	font-size: 150%;
+}
+
+header {
+	background-image: url(images/NYCBW.jpg);
+	font-family: 'Open Sans', condensed;
+	margin: 0px;
+	text-align:center;
+}
+
+header img {
+	border-radius: 50%;
+	margin-top: 20px;
+}
+
+
+
+h1#top {
+	line-height: 80px;
+	color: white;
+	font-size: 40px;
+	margin:0px;
+}
+
+h2 {
+	color: Black;
+	font-weight: bold;
+	
+}
+
+nav {
+	background-color: #d4d4f7;
+	line-height: 50px;
+	word-spacing: 35px;
+	border-width: 2px;
+	margin:0px;
+	text-align:center;
+}
+
+a {
+	text-decoration: none;
+	color: dimgrey;
+}
+
+.content {
+	background-image: url("images/white-wood2.jpg");
+	text-align:left !important;
+	float:left;
+	color:black;
+	padding:20px;
+	width:100%;
+	font-size: 100%;
+}
+
+
+
+ul {
+	list-style: none;
+}
+
+
+
+footer {
+	text-align:left;
+	clear: both;
+	height:50px;
+	padding:1px;
+	background-color: lavender;
+	color:grey;
+
+}
+
+
+a:hover {
+	color:#9595ea;
+}
+
+.gallery {
+	margin-left: 10px;
+	clear: left;
+
+}
+
+#family {
+	position: relative; margin-left: 100px;
+	border-radius: 25px;
+}
+
+ .pic {
+	height: 375px;
+	width: 300px;
+	float:left;
+
+	/*width: ;*/
+}
